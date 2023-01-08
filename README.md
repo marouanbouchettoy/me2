@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 ### Hi there 👋, my name is Marouan Bouchettoy
 #### I am full stack web developer
 ![I am full stack web developer](https://marouane216.github.io/me2/banniere.png)
@@ -23,4 +22,3 @@ Skills: JS / HTML / CSS / MVC / PHP
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouane216&" alt="marouane216" /></p>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
